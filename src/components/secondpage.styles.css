@@ -1,0 +1,47 @@
+.pdf{
+    
+    height: 100%;
+    width: 50%;
+}
+.main{
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.lableandboxes{
+    position: relative;
+    align-content: center;
+    width: 50%;
+    justify-content: center;
+}
+.lable{
+    align-content: center;
+    
+    justify-content: center;
+}
+.boxes{
+    align-content: center;
+    
+    justify-content: center;
+}
+.button1{
+    margin: 10px;
+    background-color: orange;
+}
+
+.button1:hover{
+    background-color: rgb(183, 159, 113);
+}
+.button2{
+    margin: 10px;
+    background-color: rgb(141, 198, 141);
+}
+.button2:hover{
+    background-color: rgb(94, 137, 71);
+}
+.lh{
+    margin: 10px;
+}
+.bh{
+    margin: 10px;
+}
