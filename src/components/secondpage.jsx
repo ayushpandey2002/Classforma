@@ -49,13 +49,13 @@ const SecondPage = () => {
     <div className="main">
         <div className="lableandboxes">
        <div className="lable">
-       <h1 styles={{margin:"10px"}}>Lables</h1>
+       <h1 className="lh">Lables</h1>
         <button className="button1" >NAME</button>
         <button className="button2" >TELEPHONE</button>
         </div>
 
         <div className="boxes">
-        <h1>Boxes</h1>
+        <h1 className="bh">Boxes</h1>
         </div>
 
 
